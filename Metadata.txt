@@ -1,5 +1,8 @@
 
 
-This is the file showing information about the project.
+This is the file showing information about the project
 
 All the details of projects will be stored here
+
+
+Thank you
